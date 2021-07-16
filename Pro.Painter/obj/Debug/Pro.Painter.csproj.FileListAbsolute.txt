@@ -1,0 +1,14 @@
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\bin\Debug\Pro.Painter.exe.config
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\bin\Debug\Pro.Painter.exe
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\bin\Debug\Pro.Painter.pdb
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.csprojAssemblyReference.cache
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.CapasForm.resources
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.listItemCapas.resources
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.Figuras.TextInputForm.resources
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.HomeForm.resources
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.PainterForm.resources
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.Properties.Resources.resources
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.csproj.GenerateResource.cache
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.exe
+C:\Users\Rafael Franco\source\repos\Pro.Painter\Pro.Painter\obj\Debug\Pro.Painter.pdb

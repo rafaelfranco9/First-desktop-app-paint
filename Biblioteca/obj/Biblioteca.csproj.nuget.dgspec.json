@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Rafael Franco\\source\\repos\\Pro.Painter\\Biblioteca\\Biblioteca.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Rafael Franco\\source\\repos\\Pro.Painter\\Biblioteca\\Biblioteca.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Rafael Franco\\source\\repos\\Pro.Painter\\Biblioteca\\Biblioteca.csproj",
+        "projectName": "Biblioteca",
+        "projectPath": "C:\\Users\\Rafael Franco\\source\\repos\\Pro.Painter\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\Rafael Franco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rafael Franco\\source\\repos\\Pro.Painter\\Biblioteca\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Rafael Franco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
